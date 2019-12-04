@@ -5,8 +5,10 @@ Utilização da plataforma SNIPS(como assistente de voz) e de um Raspberry PI, c
 
 A utilização da plataforma SNIPS não funcionou como nós esperavamos devido à varios impecilios em relação à instalação do assistente SAM, assim desistimos de utiliza-lo e fizemos o funcionamento através de uma senha escrita, mandando o estado do LED para um dashboard no Ubidots.
 
-
-
+![](Caixa1.jpg)
+![](Caixa2.jpg)
+![](Ubidot1.jpg)
+![](Ubidots2.jpg)
 
 Daniel Gustavo Sasaki   15.03176-4
 
